@@ -135,6 +135,7 @@ namespace Alarm_System
             //
             // call the disconnect method
             //
+
             myFinch.disConnect();
         }
         #region VOICE CONTROLLER TEST
